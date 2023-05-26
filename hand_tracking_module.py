@@ -27,7 +27,7 @@ class handDetector():
         return img
 
                 #  # print(id, lm)
-                #     h, w, c = img.shape
+                #     h, w, c = img.shape displaying the shape of an image
                 #     cx, cy = int(lm.x * w), int(lm.y * h)
                 #     print(id, cx, cy)
 
